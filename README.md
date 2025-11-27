@@ -1,5 +1,4 @@
-We train a very simple convolutional neural network on MNIST and assess the standard accuracy. Additionally, in order to provide certifiable robust adversarial perturbations we also implement randomized smoothing by Cohen et al [1].
-
+We train a very simple convolutional neural network on MNIST and assess the standard accuracy. Additionally, in order to provide certifiable robust adversarial perturbations we also implement randomized smoothing by Cohen et al. [1].
 ## Results
 
 ### Training Progress
